@@ -1,0 +1,7 @@
+*.env
+/data
+*.csv
+*.yaml 
+/my_test_db_postgres_data
+
+
