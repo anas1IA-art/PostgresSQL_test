@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 import os
 
 load_dotenv()
-
+#  this  is a firt  file where I implement how I can create table users  that track  all users  in the database  
 # Connect to PostgreSQL
 conn = psycopg2.connect(
     dbname=os.getenv("DB_NAME"),
